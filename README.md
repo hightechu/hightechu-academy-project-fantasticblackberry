@@ -1,6 +1,6 @@
 # HighTechU Academy Projects :dog:
 
-This is the repository for pitching your project ideas. Please follow the instructions below to pitch your ideas. If at any time you need help, please do not hesitate to contact the HighTechU Staff. We can be reached on the [HighTechU Slack Channel](). 
+This is the repository for pitching your project ideas. Please follow the instructions below to pitch your ideas. If at any time you need help, please do not hesitate to contact the HighTechU Staff. We can be reached on the [HighTechU Slack Channel](https://hightechuacademy2020.slack.com). 
 
 ## Tasks :paw_prints:
 
@@ -18,4 +18,4 @@ This is the repository for pitching your project ideas. Please follow the instru
 
 ## Support :minidisc:
 
-If you need any help please reach out on [Slack]().
+If you need any help please reach out on [Slack](https://hightechuacademy2020.slack.com).
