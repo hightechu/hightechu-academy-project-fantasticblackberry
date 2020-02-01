@@ -4,7 +4,7 @@ Edit this file to include your project idea pitch for the HighTechU Academy.
 
 ## Project Title
 
-[DELETE ME - ADD YOUR PROJECT TITLE HERE]
+Edit
 
 Example - Colour Picker
 
