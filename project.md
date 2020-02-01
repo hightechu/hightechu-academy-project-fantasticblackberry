@@ -4,13 +4,13 @@ Edit this file to include your project idea pitch for the HighTechU Academy.
 
 ## Project Title
 
-[DELETE ME - ADD YOUR PROJECT TITLE HERE]
+[MAKE UNIQUE]
 
-Example - Colour Picker
+Insta for books
 
 ## Project Mini Pitch
 
-[DELETE ME - ADD YOUR PROJECT MINI PITCH HERE]
+This app is designed to facilitate reading for teenagers by sorting.
 
 Example - This colour picker will revolutionaize the way colours are picked for the web.
 
