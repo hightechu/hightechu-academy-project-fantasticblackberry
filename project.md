@@ -1,7 +1,7 @@
 # Project Idea Pitch
- zack
+ 
 Edit this file to include your project idea pitch for the HighTechU Academy.
-
+zack
 ## Project Title
 
 [DELETE ME - ADD YOUR PROJECT TITLE HERE]
