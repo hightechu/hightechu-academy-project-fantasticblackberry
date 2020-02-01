@@ -8,7 +8,7 @@ Campfire - Social Bulletin Board
 
 ## Project Mini Pitch
 
-This is a platform where 
+This is a platform where users can post different social gatherings, such as barbecues, or parties. The app will show the user different events based off of their location
 
 Example - This colour picker will revolutionaize the way colours are picked for the web.
 
