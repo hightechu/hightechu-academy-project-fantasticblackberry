@@ -1,5 +1,7 @@
 # Project Idea Pitch
 
+Luke Vincent
+
 Edit this file to include your project idea pitch for the HighTechU Academy.
 
 ## Project Title
