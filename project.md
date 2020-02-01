@@ -1,4 +1,4 @@
-# Project Idea Pitch
+# Project Idea Pitch - Matt Smith :D
 
 Edit this file to include your project idea pitch for the HighTechU Academy.
 
