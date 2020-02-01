@@ -1,6 +1,6 @@
 # Project Idea Pitch
 
-Edit this file to include your project idea pitch for the HighTechU Academy.
+Edit this file to include your project idea pitch for the HighTechU Academy!!
 
 ## Project Title
 
@@ -31,3 +31,5 @@ Example - The audience would be frontend developers and designers looking to pic
 [DELETE ME - ADD YOUR PROJECT INSPIRATION HERE]
 
 Example - This project idea was inspired by the following websites: list of website.
+
+-Myfanwy
