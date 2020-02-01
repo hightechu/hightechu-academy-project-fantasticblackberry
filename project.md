@@ -4,13 +4,11 @@ Edit this file to include your project idea pitch for the HighTechU Academy.
 
 ## Project Title
 
-[DELETE ME - ADD YOUR PROJECT TITLE HERE]
-
-Example - Colour Picker
+Campfire - Social Bulletin Board
 
 ## Project Mini Pitch
 
-[DELETE ME - ADD YOUR PROJECT MINI PITCH HERE]
+This is a platform where 
 
 Example - This colour picker will revolutionaize the way colours are picked for the web.
 
