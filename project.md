@@ -1,10 +1,11 @@
+Caelin
+
 # Project Idea Pitch
 
 Edit this file to include your project idea pitch for the HighTechU Academy.
 
 ## Project Title
 
-[DELETE ME - ADD YOUR PROJECT TITLE HERE]
 
 Example - Colour Picker
 
