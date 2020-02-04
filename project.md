@@ -15,7 +15,8 @@ MeetMap is a social map service that lets you start and join friend groups and f
 The MVP version of this web app will use the addresses of n members of a group and show the top 5 retults based on:
   - Places teens like to meet (Fast food resturaunts, parks, malls, movies theaters, etc.) 
   - The least amount of net travel in the group (Based on distance or time) 
-  - The least amount of difference between the travel of all group members (So we don't get johnny walking 30 seconds, and timmy having     to bus 90 minutes)  
+  - The least amount of difference between the travel of all group members (So we don't get johnny walking 30 seconds, and timmy having     to bus 90 minutes) 
+  
 For proof of concept, we could use static addresses, but once that is a success the first expansion would be Geolocating the group members and showing the top 5 results based on their current location. This idea has so much potential for expansion including a chat service for the group, an android and apple app, searching results for certain types of location, and much more.   
 
 ## Project Audience
