@@ -2,34 +2,29 @@
 
 Luke Vincent
 
-Edit this file to include your project idea pitch for the HighTechU Academy.
-
 ## Project Title
 
-[DELETE ME - ADD YOUR PROJECT TITLE HERE]
-
-Example - Colour Picker
+My Time
 
 ## Project Mini Pitch
 
-[DELETE ME - ADD YOUR PROJECT MINI PITCH HERE]
-
-Example - This colour picker will revolutionaize the way colours are picked for the web.
+Schedule your time (School, work, physical fitness, etc).
+Keep track of your time.
+Countdown timer to events.
+Summary of events scheduled.
 
 ## Project Description
 
-[DELETE ME - ADD YOUR PROJECT DESCRIPTION HERE]
-
-Example - The app will be web based and allow users to pick a colour with the help of a colour wheel.
+Schedule different projects, exams, appointments, workouts, parties and sports events in different categories.
+Notifications come up on your phone for different scheduled tasks.
+Countdown timer by days and/or hours for each event.
+Categories such as personal, social, physical fitness, school, work and home. Each category is a different color.
+Yearly, Monthly, Weekly and daily scheduler.
 
 ## Project Audience
 
-[DELETE ME - ADD YOUR PROJECT AUDIENCE HERE]
-
-Example - The audience would be frontend developers and designers looking to pick colours for their work.
+The audience would be teens/young adults.
 
 ## Project Inspiration
 
-[DELETE ME - ADD YOUR PROJECT INSPIRATION HERE]
-
-Example - This project idea was inspired by the following websites: list of website.
+The inspiration for this project idea was the fact that it can be hard to manage your time especially with teens (I would know). So I knew for this project pitch that I would like to make a scheduler app for teens/young adults. Having a coutdown timer would help with time appreciation. A summary also helps to lean how to better manage my time.
