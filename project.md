@@ -5,30 +5,27 @@ Edit this file to include your project idea pitch for the HighTechU Academy.
 
 ## Project Title
 
-[DELETE ME - ADD YOUR PROJECT TITLE HERE]
+Polytechnic 
 
-Example - Colour Picker
 
 ## Project Mini Pitch
 
-[DELETE ME - ADD YOUR PROJECT MINI PITCH HERE]
+The Polytechnic website will help the future university students of BC make the right choice for their secondary institute based 
 
-Example - This colour picker will revolutionaize the way colours are picked for the web.
 
 ## Project Description
 
-[DELETE ME - ADD YOUR PROJECT DESCRIPTION HERE]
+This is a web based catalogue that compares the rankings, courses, programs and prices of different secondary institutes in BC to help inform potential students.
 
-Example - The app will be web based and allow users to pick a colour with the help of a colour wheel.
 
 ## Project Audience
 
-[DELETE ME - ADD YOUR PROJECT AUDIENCE HERE]
+Students intending on attending some type of secondary education in BC.
 
-Example - The audience would be frontend developers and designers looking to pick colours for their work.
 
-## Project Inspiration
+## Project InspirationS
 
-[DELETE ME - ADD YOUR PROJECT INSPIRATION HERE]
-
-Example - This project idea was inspired by the following websites: list of website.
+I find it difficult to research different universities courses and programs without having to compare each individual universities website. The following are sources of inspiration:
+-UVic Courses https://web.uvic.ca/calendar2020-01/courses/
+-UBC Programs https://you.ubc.ca/programs/#mode=by-topic&viewMode=list
+-UBC Cources https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-all-departments
