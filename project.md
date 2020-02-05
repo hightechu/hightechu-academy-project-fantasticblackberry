@@ -6,30 +6,21 @@ Edit this file to include your project idea pitch for the HighTechU Academy.
 
 ## Project Title
 
-[DELETE ME - ADD YOUR PROJECT TITLE HERE]
-
-Example - Colour Picker
+UTrack
 
 ## Project Mini Pitch
 
-[DELETE ME - ADD YOUR PROJECT MINI PITCH HERE]
-
-Example - This colour picker will revolutionaize the way colours are picked for the web.
+This app will improve customer service between delivery companies and customers and add practicality and increase the speed at which deliveries happen due to removing incoveniences.
 
 ## Project Description
 
-[DELETE ME - ADD YOUR PROJECT DESCRIPTION HERE]
-
-Example - The app will be web based and allow users to pick a colour with the help of a colour wheel.
+An app that provides an improved tracking service to deliveries such as purchases from companies like Amazon or the mail. The customer will be able to choose a different address or add a specific date of when to deliver. Finally there will be a communication feature between customer and courier therefore adding practicality and convenience as well as removing the need for multiple trips made by the courier.
 
 ## Project Audience
 
-[DELETE ME - ADD YOUR PROJECT AUDIENCE HERE]
-
-Example - The audience would be frontend developers and designers looking to pick colours for their work.
+Delivery companies like FedEx and UPS as well as customers who shop online.
 
 ## Project Inspiration
 
-[DELETE ME - ADD YOUR PROJECT INSPIRATION HERE]
+I got inspired by my package that got delayed by a week which made me very frustated.
 
-Example - This project idea was inspired by the following websites: list of website.
