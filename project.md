@@ -16,7 +16,7 @@ This app will be ios/android based, being easily accessible as an app from your 
 
 ## Project Audience
 
-the audience would be the average person looking to save money, most likely, adults
+the audience would be your average consumer looking to save money, most likely, adults 
 
 ## Project Inspiration
 
